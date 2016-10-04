@@ -1,0 +1,3 @@
+This is the change log for the Mote OT Club code files.
+To the bottom of this document, add version number, date, which file was manipulated, line numbers, and a brief description of what change was made.
+
